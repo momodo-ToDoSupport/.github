@@ -1,6 +1,6 @@
 # 모모두
 
-> 배포 URL: 
+> 배포 URL: https://momodo-front-git-dev-hi25.vercel.app/
 <br>
 
 - [프로젝트 소개](#프로젝트-소개)
@@ -24,35 +24,34 @@
   </tr>
   <tr>
     <td>
-      <a href="">
+      <a href="https://github.com/Yang-zzz">
         <img src="" width="200px"/>
       </a>
     </td>
     <td>
-      <a href="">
+      <a href="https://github.com/yoyoujin">
         <img src="" width="200px"/>
       </a>
     </td>
     <td>
-      <a href="">
+      <a href="https://github.com/SBSun">
         <img src="" width="200px"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-        <a href=""></a>
+        <a href="https://github.com/Yang-zzz"></a>
     </td>
     <td align="center">
-        <a href=""></a>
+        <a href="https://github.com/yoyoujin"></a>
     </td>
     <td align="center">
-        <a href=""></a>
+        <a href="https://github.com/SBSun"></a>
     </td>
   </tr>
 </table>
 <br>
-<img width="872" alt="스크린샷 2023-04-19 오후 6 12 33" src="https://user-images.githubusercontent.com/96907832/233027791-8aebf336-ec72-4fc9-86d6-d572e34d3345.png">
 
 <br>
 <br>
