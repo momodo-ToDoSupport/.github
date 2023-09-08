@@ -6,6 +6,7 @@
 - [프로젝트 소개](#프로젝트-소개)
 - [팀원 소개 및 역할 분담](#팀원-소개-및-역할-분담)
 - [개발 환경](#개발-환경)
+- [구현 기능](#구현-기능)
 
 <br>
 <br>
@@ -58,7 +59,7 @@
 
 ## 개발 일정
 
-전체 개발 일정: 2023.02.23 ~ 진행 중
+전체 개발 일정: 2023.05.14 ~ 2023.09.08
 
 <br>
 <br>
@@ -72,11 +73,13 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jotai-232F3E?style=flat-square&logo=Jotai&logoColor=white"/>
 - Back-End
   <br>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-000000?style=flat-square&logo=SpringDataJPA&logoColor=white">
+  <img src="https://img.shields.io/badge/spring batch-6DB33F?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
@@ -88,4 +91,8 @@
   <br>
   <img src="https://img.shields.io/badge/FigJam-5B0BB5?style=flat-square&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  
 <br>
+<br>
+
+## 구현 기능
