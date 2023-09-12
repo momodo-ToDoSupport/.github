@@ -4,10 +4,12 @@
 - [개발 환경](#개발-환경)
 - [구현 기능](#구현-기능)
 <br>
-> 배포 URL: https://momodo-front-git-dev-hi25.vercel.app/ <br>
 
->ID : Test    <br>
->PW : 123456  <br>
+>[`Product 웹 바로가기 👈🏻`](https://momodo.vercel.app/) <br>
+
+>ID : momodo    <br>
+>PW : modo1234  <br>
+
 
 ## 프로젝트 소개
 큰 목표를 성취하기 위해선, 작은 목표를 하나 둘씩 이뤄 나가며 큰 목표에 도전해야 합니다.<br>
@@ -55,13 +57,13 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/Yang-zzz">Yang-zzz</a>
+        <a href="https://github.com/Yang-zzz">양지성(Yang-zzz)</a>
     </td>
     <td align="center">
-        <a href="https://github.com/yoyoujin">yoyoujin</a>
+        <a href="https://github.com/yoyoujin">한유진(yoyoujin)</a>
     </td>
     <td align="center">
-        <a href="https://github.com/SBSun">SBSun</a>
+        <a href="https://github.com/SBSun">송병선(SBSun)</a>
     </td>
   </tr>
 </table>
@@ -123,3 +125,4 @@
 |                                                        9. 캘린더 달성도                                                        |                                                        10. 날짜별 캘린더                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 | ![캘린더달성도](https://github.com/momodo-ToDoSupport/.github/assets/102464638/b22fffc1-7f1d-44a9-a072-f61ada6d0d34) | ![날짜별 캘린더](https://github.com/momodo-ToDoSupport/.github/assets/102464638/f6348af7-4419-4b09-b2a8-6a228269353c) |
+  
